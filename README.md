@@ -3,6 +3,8 @@
 ![Code Quality][ico-quality]
 ![Licsense][ico-licence]
 
+[![An image of @adampaterson's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adampaterson)](https://holopin.io/@adampaterson)
+
 I'm a polyglot programmer and have been building web application for around 12 years. I most commonly work with [Magento](link-magento), [Akeneo](link-akeneo), [Laravel](link-laravel), [Symfony](link-symfony) and various other [PHP](link-php) applications.
 
 <p align="center" style="text-align:"center">
