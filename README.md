@@ -17,7 +17,7 @@ I'm a polyglot programmer and have been building web application for around 12 y
 
 Working as a Lead Backend Developer with the e-commerce agency [Pinpoint](link-pinpoint) helping deliver Magento 2 solutions for merchants.
 
-[ico-version]: https://img.shields.io/badge/Version-31.7-green?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&logoWidth=20
+[ico-version]: https://img.shields.io/badge/Version-33-green?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&logoWidth=20
 [ico-build]: https://img.shields.io/badge/Build-somewhat--stable-orange?style=for-the-badge&logo=travis-ci&logoColor=white&logoWidth=20
 [ico-quality]: https://img.shields.io/badge/Code%20Quality-A+-green?style=for-the-badge&logo=scrutinizer-ci&logoColor=white&logoWidth=20
 [ico-licence]: https://img.shields.io/badge/License-Divorced-green?style=for-the-badge&logo=tinder&logoColor=white&logoWidth=20
