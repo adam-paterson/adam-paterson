@@ -141,11 +141,15 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adam-paterson&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-paterson&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adam-paterson&theme=radical)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adam-paterson&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-paterson&layout=compact&theme=radical&langs_count=8)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adam-paterson&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adam-paterson&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adam-paterson&theme=radical)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adam-paterson.adam-paterson)
 
 </div>
 
